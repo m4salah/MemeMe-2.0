@@ -47,6 +47,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D94591922466023500D6BAA7 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				D95E96A22458AC2500B6DE5C /* Main.storyboard */,
+				D95E96A52458AC2800B6DE5C /* Assets.xcassets */,
+				D95E96A72458AC2800B6DE5C /* LaunchScreen.storyboard */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
 		D95E96902458AC2500B6DE5C = {
 			isa = PBXGroup;
 			children = (
@@ -66,14 +76,12 @@
 		D95E969B2458AC2500B6DE5C /* MemeMe-2.0 */ = {
 			isa = PBXGroup;
 			children = (
+				D95E969C2458AC2500B6DE5C /* AppDelegate.swift */,
+				D9E32B4E245A421800CC005F /* SceneDelegate.swift */,
 				D9EAF5F2245A061B00C6D960 /* View */,
 				D97E42502459FACF00586885 /* Model */,
 				D97E424F2459FAC200586885 /* Controller */,
-				D95E969C2458AC2500B6DE5C /* AppDelegate.swift */,
-				D9E32B4E245A421800CC005F /* SceneDelegate.swift */,
-				D95E96A22458AC2500B6DE5C /* Main.storyboard */,
-				D95E96A52458AC2800B6DE5C /* Assets.xcassets */,
-				D95E96A72458AC2800B6DE5C /* LaunchScreen.storyboard */,
+				D94591922466023500D6BAA7 /* Assets */,
 				D95E96AA2458AC2800B6DE5C /* Info.plist */,
 			);
 			path = "MemeMe-2.0";
