@@ -33,11 +33,7 @@ By clicking on the plus sign the gallary will open presently to chose image
 after you chosing the image you can type whatever you want on top and button the image 
 
 <p align="center">
-<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.24.22.png" alt="alt text" width="300" height="550" >
-</p>
-
-<p align="center">
-<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.25.18.png" alt="alt text" width="300" height="550" >
+<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.24.22.png" alt="alt text" width="300" height="550" ><img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.25.18.png" alt="alt text" width="300" height="550" >
 </p>
 
 ### After finish the image
@@ -51,11 +47,7 @@ you can save it or send it to your friend by clicking the action Button on the t
 after that you return to the main screen with view to all meme you make it 
 
 <p align="center">
-<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.25.26.png" alt="alt text" width="300" height="550" >
-</p>
-
-<p align="center">
-<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.25.23.png" alt="alt text" width="300" height="550" >
+<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.25.26.png" alt="alt text" width="300" height="550" ><img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.25.23.png" alt="alt text" width="300" height="550" >
 </p>
 
 ## Framework
