@@ -12,42 +12,42 @@ This is the second portfolio app from Udacity iOS Developer Nanodegree. This app
 ## App Structure
 MemeMe is following the MVC pattern. 
 
-<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Screen%20Shot%202020-05-08%20at%2011.11.02%20PM.png" alt="alt text" width="800" height="500" >
+<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Screen%20Shot%202020-05-08%20at%2011.11.02%20PM.png" alt="alt text" width="800" height="500" hspace=20 vspace=20>
 
 ## Implementation
 ### The main screen
 This screen make you chose the grid or table to show the images you edited 
 
 <p align="center">
-<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.22.55.png" alt="alt text" width="300" height="550" >
+<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.22.55.png" alt="alt text" width="300" height="550" hspace=20 vspace=20>
 </p>
 
 ### Chosing Image
 By clicking on the plus sign the gallary will open presently to chose image
 
 <p align="center">
-<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.23.08.png" alt="alt text" width="300" height="550" >
+<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.23.08.png" alt="alt text" width="300" height="550" hspace=20 vspace=20 >
 </p>
 
 ### After chose image
 after you chosing the image you can type whatever you want on top and buttom the image 
 
 <p align="center">
-<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.24.22.png" alt="alt text" width="300" height="550"><img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.25.18.png" alt="alt text" width="300" height="550">
+<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.24.22.png" alt="alt text" width="300" height="550" hspace=20 vspace=20><img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.25.18.png" alt="alt text" width="300" height="550"hspace=20 vspace=20>
 </p>
 
 ### After finish the image
 you can save it or send it to your friend by clicking the action Button on the top left corner 
 
 <p align="center">
-<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.23.47.png" alt="alt text" width="300" height="550" >
+<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.23.47.png" alt="alt text" width="300" height="550"hspace=20 vspace=20 >
 </p>
 
 ### return to the main screen 
 after that you return to the main screen with view to all meme you make it 
 
 <p align="center">
-<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.25.26.png" alt="alt text" width="300" height="550" ><img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.25.23.png" alt="alt text" width="300" height="550" >
+<img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.25.26.png" alt="alt text" width="300" height="550"hspace=20 vspace=20 ><img src="https://github.com/mohamedspicer/MemeMe-2.0/blob/master/Demo/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-08%20at%2023.25.23.png" alt="alt text" width="300" height="550"hspace=20 vspace=20 >
 </p>
 
 ## Framework
